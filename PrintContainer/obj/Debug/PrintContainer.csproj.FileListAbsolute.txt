@@ -1,0 +1,59 @@
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.dll.config
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.tlb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_Common.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_DAL_V1.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintGeneralPatholab.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintGeneralPatholab.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_Common.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_DAL_V1.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\bin\Debug\EntityFramework.xml
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.csprojResolveAssemblyReference.cache
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.dll.config
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintContainer.tlb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_Common.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_DAL_V1.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintGeneralPatholab.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\EntityFramework.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\PrintGeneralPatholab.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_Common.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_DAL_V1.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\EntityFramework.xml
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\stdole.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_Common.dll.config
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\bin\Debug\Patholab_DAL_V1.dll.config
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.csprojAssemblyReference.cache
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.csproj.CoreCompileInputs.cache
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.csproj.CopyComplete
+C:\work\PatolabProj\DLLS\PrintContainer.dll.config
+C:\work\PatolabProj\DLLS\PrintContainer.dll
+C:\work\PatolabProj\DLLS\PrintContainer.pdb
+C:\work\PatolabProj\DLLS\PrintContainer.tlb
+C:\work\PatolabProj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.csprojResolveAssemblyReference.cache
+C:\work\PatolabProj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.dll
+C:\work\PatolabProj\PrintGeneralPatholab\PrintContainer\obj\Debug\PrintContainer.pdb

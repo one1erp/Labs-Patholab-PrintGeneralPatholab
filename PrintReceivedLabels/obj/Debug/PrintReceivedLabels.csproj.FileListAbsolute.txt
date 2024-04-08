@@ -1,0 +1,39 @@
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.csprojResolveAssemblyReference.cache
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.dll.config
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.tlb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\EntityFramework.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_Common.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_DAL_V1.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintGeneralPatholab.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintGeneralPatholab.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\EntityFramework.xml
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_Common.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_DAL_V1.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.dll.config
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintReceivedLabels.tlb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_Common.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_DAL_V1.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintGeneralPatholab.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\PrintGeneralPatholab.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\EntityFramework.xml
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_Common.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\bin\Debug\Patholab_DAL_V1.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.csprojResolveAssemblyReference.cache
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.pdb
+C:\work\PatolabProj\DLLS\PrintReceivedLabels.dll.config
+C:\work\PatolabProj\DLLS\PrintReceivedLabels.dll
+C:\work\PatolabProj\DLLS\PrintReceivedLabels.pdb
+C:\work\PatolabProj\DLLS\PrintReceivedLabels.tlb
+C:\work\PatolabProj\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.csprojResolveAssemblyReference.cache
+C:\work\PatolabProj\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.dll
+C:\work\PatolabProj\PrintGeneralPatholab\PrintReceivedLabels\obj\Debug\PrintReceivedLabels.pdb

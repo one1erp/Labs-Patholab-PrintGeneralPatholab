@@ -1,0 +1,36 @@
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\TestProject.exe
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\TestProject.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\PrintGeneralPatholab.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_DAL_V1.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_Common.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\PrintGeneralPatholab.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_DAL_V1.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\EntityFramework.xml
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_Common.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.exe
+C:\Users\roye\Desktop\Patholab Projects\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\TestProject.exe.config
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.exe
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\TestProject.exe
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\TestProject.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\PrintGeneralPatholab.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_DAL_V1.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\EntityFramework.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_Common.dll
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\PrintGeneralPatholab.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_DAL_V1.pdb
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\EntityFramework.xml
+C:\Work\Patholab Proj\PrintGeneralPatholab\TestProject\bin\Debug\Patholab_Common.pdb
+C:\work\PatolabProj\DLLS\TestProject.exe.config
+C:\work\PatolabProj\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.exe
+C:\work\PatolabProj\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.pdb
+C:\work\PatolabProj\DLLS\TestProject.exe
+C:\work\PatolabProj\DLLS\TestProject.pdb
+C:\work\PatolabProj\PrintGeneralPatholab\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
