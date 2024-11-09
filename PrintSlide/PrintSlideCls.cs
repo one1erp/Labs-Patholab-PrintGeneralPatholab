@@ -218,9 +218,11 @@ namespace PrintSlideNew
             string defaultIpAddress = _appSettings.Settings [ "defaultPrinter" ].Value;
 
             string ZPLString;
+
+            bool isImmuno = GetZplType(Barcode);
             try
             {
-                ZPLString = _appSettings.Settings [ "ZPLString" ].Value;
+                ZPLString = isImmuno ? _appSettings.Settings["ZPLStringWithVentana"].Value: _appSettings.Settings [ "ZPLString" ].Value;
             }
             catch ( Exception ex )
             {
@@ -267,6 +269,12 @@ namespace PrintSlideNew
                 //}
             }
         }
+
+        private bool GetZplType(string barcode)
+        {
+            return dal.FindBy<U_EXTRA_REQUEST_DATA_USER>(x=>x.U_SLIDE_NAME == barcode)?.FirstOrDefault()?.U_REQ_TYPE == "I";
+        }
+
         private bool PrintVentana(string header, string Barcode, string workerNumber, string colorType, string printerName)
         {
 
@@ -369,6 +377,8 @@ namespace PrintSlideNew
             {
                 TimedMessageBox("Ventana code not numeric \r\nBarcode:" + Barcode);
             }
+
+            Debugger.Launch();
             ZPLStringWithVentana = string.Format(ZPLStringWithVentana, header, Barcode, workerNumber, colorType,
                                                  headerwidth, ventanaBarcode);
             try
